@@ -1,3 +1,10 @@
+initramfs-tools (1:0.120+deb8u3+c9+1) calibre9; urgency=medium
+
+  * init: Remove use of switch_root
+  * add an epoch to avoid the same issue in the future
+
+ -- Mehdi Dogguy <mehdi.dogguy@edf.fr>  Fri, 16 Jun 2017 15:45:56 +0200
+
 initramfs-tools (0.120+deb8u3) jessie; urgency=medium
 
   * [6661d01] hook-functions: Include drivers for all keyboards when
