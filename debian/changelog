@@ -1,3 +1,9 @@
+initramfs-tools (1:0.120+deb8u3sci8u1) scibian8; urgency=medium
+
+  * Scibian8 rebuild.
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Fri, 05 Jan 2018 17:09:30 +0100
+
 initramfs-tools (1:0.120+deb8u3+c9+1) calibre9; urgency=medium
 
   * init: Remove use of switch_root
